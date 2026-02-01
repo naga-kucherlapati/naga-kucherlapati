@@ -1,14 +1,19 @@
 👋 Hi, I’m Naga
 
-I’m a Data, AI & Technology Strategist, Product Leader, and Technical Program Manager focused on turning AI ambition into enterprise-scale adoption.
+Technology is for everyone. My work is about making sure it actually feels that way.
 
-With 14+ years of experience across automotive, retail, finance, and food tech, I work at the intersection of AI systems, product strategy, and change execution. The technology is rarely the hardest part. Adoption is.
+I’m a Data and AI / Technology Strategist, Product Leader, and Technical Program Manager - turning executive ambition into enterprise adoption. I bring 14+ years of experience leading large-scale digital transformation across automotive, retail, finance, and food tech.
+
+I move fluidly between products and programs. Product-forward on vision, value, and outcomes. Execution-strong when scale and coordination matter. My work sits at the intersection of AI, data, and people, because the tech is rarely the hardest part. Adoption is.
+
+As a PROSCI-certified Change Leader in AI adoption, I bake change into products from day one. Trust, workflows, incentives, and capability are treated as core requirements, not downstream activities.
+
+I operate in dual focus: telescopic in vision and microscopic in execution. Using Agile and SAFe, I translate strategy into roadmaps, value streams, epics, and program increments that actually ship.
 
 💡 What I work on here
 
-This GitHub is a curated portfolio, not a dumping ground.
+This GitHub is a curated portfolio of:
 
-You’ll find:
 - AI use cases designed for real organizations, not demos in isolation
 - Context engineering and AI system experiments
 - Human-in-the-loop and responsible AI patterns
@@ -35,15 +40,15 @@ Each repo includes documentation, structure, and decision rationale.
 
 🌱 Beyond GitHub
 
-Alongside enterprise work, I created AI Lite, a digital proficiency and AI education initiative focused on building confidence and mindset, not just technical skills.
+Alongside enterprise work, I created AI Lite®, a digital proficiency and AI education initiative focused on building confidence and mindset, not just technical skills.
 
 LinkedIn: https://www.linkedin.com/in/naga-kucherlapati
 
 🤝 Let’s connect
 
 If you’re interested in:
-- AI product strategy
-- AI adoption and enablement
+- Data and AI/technology strategy
+- AI adoption and capability building
 - Technical program leadership
 - Enterprise digital transformation
 
